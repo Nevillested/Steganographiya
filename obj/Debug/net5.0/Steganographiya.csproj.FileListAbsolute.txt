@@ -1,0 +1,5 @@
+C:\Users\Van\source\repos\Steganographiya\obj\Debug\net5.0\Steganographiya.csproj.AssemblyReference.cache
+C:\Users\Van\source\repos\Steganographiya\obj\Debug\net5.0\Steganographiya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Van\source\repos\Steganographiya\obj\Debug\net5.0\Steganographiya.AssemblyInfoInputs.cache
+C:\Users\Van\source\repos\Steganographiya\obj\Debug\net5.0\Steganographiya.AssemblyInfo.cs
+C:\Users\Van\source\repos\Steganographiya\obj\Debug\net5.0\Steganographiya.csproj.CoreCompileInputs.cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ff/UBBlicsVqKpUoSLrEW/gKTx/4imKCN9Ncx/KQBCHip3FPv9Oah3hiOTGc4whyUcd7ELU3g3Srt3lGu9r/Ww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Van\\source\\repos\\Steganographiya\\Steganographiya.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Van\\.nuget\\packages\\system.drawing.common\\7.0.0-preview.1.22076.8\\system.drawing.common.7.0.0-preview.1.22076.8.nupkg.sha512",
+    "C:\\Users\\Van\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
